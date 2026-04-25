@@ -49,7 +49,7 @@ Base URL: https://api.datavortex.nl/daanreceptje
 ## Getting Started
 
 ### Requirements
-- Node.js (18+)
+- Node.js
 - npm
 - Git
 
